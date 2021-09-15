@@ -1,4 +1,3 @@
-### Hi there 👋
 Hi, I’m @RushikeshKakade
 
 I’m interested in Data Science and Machine Learning
